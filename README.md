@@ -1,4 +1,4 @@
-🎓 Alumni Association Portal
+🎓 NIT Alumni Association Portal (CAMPUS CONNECT)
 
 A full-stack MERN (MongoDB, Express, React, Node.js) based web application that connects alumni, students, and college administration on a single platform.
 
@@ -43,3 +43,8 @@ A full-stack MERN (MongoDB, Express, React, Node.js) based web application that 
 | Database     | MongoDB + Mongoose      |
 | Auth         | JWT, bcrypt             |
 | Deployment   | (To be added)           |
+
+contributed by 
+JATIN GUPTA 
+PRANAY GUPTA
+NITISH KUMAR
